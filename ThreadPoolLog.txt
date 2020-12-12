@@ -1,0 +1,40 @@
+INFO : ThreadPool was created with 7 threads
+INFO : 0 thread start routine
+INFO : 1 thread start routine
+INFO : 2 thread start routine
+INFO : 3 thread start routine
+INFO : 4 thread start routine
+INFO : 5 thread start routine
+INFO : 6 thread start routine
+INFO : 7 thread was created
+INFO : 7 thread start routine
+INFO : 8 thread was created
+INFO : 8 thread start routine
+INFO : 9 thread was created
+INFO : 9 thread start routine
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+ERROR : ThreadPool reached limit of threads
+INFO : 0 thread was deleted
+INFO : 1 thread was deleted
+INFO : 2 thread was deleted
+INFO : 3 thread was deleted
+INFO : 4 thread was deleted
+INFO : 5 thread was deleted
+INFO : 6 thread was deleted
+INFO : 7 thread was deleted
+INFO : 8 thread was deleted
+INFO : 9 thread was deleted
